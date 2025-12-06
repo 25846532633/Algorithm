@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CPlus\\Code\\2025_12_6 Link\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\palindrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|solutionrelative:2025_12_6 Link\\palindrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_MiddleNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|solutionrelative:2025_12_6 Link\\Link_MiddleNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_Delete_Repeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|solutionrelative:2025_12_6 Link\\Link_Delete_Repeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_Reverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E101B98F-F23A-4727-9416-A5358B746658}|2025_12_6 Link\\2025_12_6 Link.vcxproj|solutionrelative:2025_12_6 Link\\Link_Reverse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 492,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "palindrome.cpp",
+              "DocumentMoniker": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\palindrome.cpp",
+              "RelativeDocumentMoniker": "2025_12_6 Link\\palindrome.cpp",
+              "ToolTip": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\palindrome.cpp",
+              "RelativeToolTip": "2025_12_6 Link\\palindrome.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-06T09:30:07.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Link_MiddleNumber.cpp",
+              "DocumentMoniker": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_MiddleNumber.cpp",
+              "RelativeDocumentMoniker": "2025_12_6 Link\\Link_MiddleNumber.cpp",
+              "ToolTip": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_MiddleNumber.cpp",
+              "RelativeToolTip": "2025_12_6 Link\\Link_MiddleNumber.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-06T09:20:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Link_Delete_Repeat.cpp",
+              "DocumentMoniker": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_Delete_Repeat.cpp",
+              "RelativeDocumentMoniker": "2025_12_6 Link\\Link_Delete_Repeat.cpp",
+              "ToolTip": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_Delete_Repeat.cpp",
+              "RelativeToolTip": "2025_12_6 Link\\Link_Delete_Repeat.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-06T09:18:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Link_Reverse.cpp",
+              "DocumentMoniker": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_Reverse.cpp",
+              "RelativeDocumentMoniker": "2025_12_6 Link\\Link_Reverse.cpp",
+              "ToolTip": "E:\\CPlus\\Code\\2025_12_6 Link\\2025_12_6 Link\\Link_Reverse.cpp",
+              "RelativeToolTip": "2025_12_6 Link\\Link_Reverse.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-06T09:14:38.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
