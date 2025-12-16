@@ -1,0 +1,3 @@
+﻿  变种水仙花.c
+E:\CPlus\Algorithm Study\Algorithm\2025_12_16 string\2025_12_16 string\变种水仙花.c(14,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  2025_12_16 string.vcxproj -> E:\CPlus\Algorithm Study\Algorithm\2025_12_16 string\x64\Debug\2025_12_16 string.exe
