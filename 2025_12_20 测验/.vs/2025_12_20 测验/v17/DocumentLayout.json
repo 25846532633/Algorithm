@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u5B57\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|solutionrelative:2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u5B57\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53CD\u8F6C\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|solutionrelative:2025_12_20 \u6D4B\u9A8C\\\u53CD\u8F6C\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u6570\u5B57.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|solutionrelative:2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u6570\u5B57.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16400EE2-1C19-40B9-8A7B-A0DAB35FBB20}|2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C.vcxproj|solutionrelative:2025_12_20 \u6D4B\u9A8C\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u6570\u5B57.c",
+              "DocumentMoniker": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u6570\u5B57.c",
+              "RelativeDocumentMoniker": "2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u6570\u5B57.c",
+              "ToolTip": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u6570\u5B57.c",
+              "RelativeToolTip": "2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u6570\u5B57.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-20T09:02:27.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.c",
+              "DocumentMoniker": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.c",
+              "RelativeDocumentMoniker": "2025_12_20 \u6D4B\u9A8C\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.c",
+              "ToolTip": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.c",
+              "RelativeToolTip": "2025_12_20 \u6D4B\u9A8C\\\u5408\u5E76\u4E24\u4E2A\u6709\u5E8F\u6570\u7EC4.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-20T08:47:24.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u5B57\u7B26.cpp",
+              "DocumentMoniker": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u5B57\u7B26.cpp",
+              "RelativeDocumentMoniker": "2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u5B57\u7B26.cpp",
+              "ToolTip": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u5B57\u7B26.cpp",
+              "RelativeToolTip": "2025_12_20 \u6D4B\u9A8C\\\u53EA\u51FA\u73B0\u4E00\u6B21\u7684\u5B57\u7B26.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-20T08:41:10.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u53CD\u8F6C\u5B57\u7B26\u4E32.c",
+              "DocumentMoniker": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53CD\u8F6C\u5B57\u7B26\u4E32.c",
+              "RelativeDocumentMoniker": "2025_12_20 \u6D4B\u9A8C\\\u53CD\u8F6C\u5B57\u7B26\u4E32.c",
+              "ToolTip": "E:\\CPlus\\Algorithm Study\\Algorithm\\2025_12_20 \u6D4B\u9A8C\\2025_12_20 \u6D4B\u9A8C\\\u53CD\u8F6C\u5B57\u7B26\u4E32.c",
+              "RelativeToolTip": "2025_12_20 \u6D4B\u9A8C\\\u53CD\u8F6C\u5B57\u7B26\u4E32.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-20T08:28:34.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
