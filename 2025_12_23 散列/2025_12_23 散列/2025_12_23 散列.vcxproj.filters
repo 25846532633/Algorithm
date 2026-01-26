@@ -21,5 +21,8 @@
     <ClCompile Include="是否出现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="集合求交.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

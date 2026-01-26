@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="出现次数.c" />
     <ClCompile Include="是否出现.cpp" />
+    <ClCompile Include="集合求交.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

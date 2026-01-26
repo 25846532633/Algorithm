@@ -1,4 +1,3 @@
-﻿  是否出现.cpp
-E:\CPlus\Algorithm Study\Algorithm\2025_12_23 散列\2025_12_23 散列\是否出现.cpp(11,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\CPlus\Algorithm Study\Algorithm\2025_12_23 散列\2025_12_23 散列\是否出现.cpp(12,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+﻿  集合求交.c
+  是否出现.cpp
   2025_12_23 散列.vcxproj -> E:\CPlus\Algorithm Study\Algorithm\2025_12_23 散列\x64\Debug\2025_12_23 散列.exe
