@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CPlus\\Algorithm Study\\Algorithm\\2026_4_8 test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED4FCDD-C641-4C69-80FC-D2CD63D2E4BF}|2026_4_8 test\\2026_4_8 test.vcxproj|E:\\CPlus\\Algorithm Study\\Algorithm\\2026_4_8 test\\2026_4_8 test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED4FCDD-C641-4C69-80FC-D2CD63D2E4BF}|2026_4_8 test\\2026_4_8 test.vcxproj|solutionrelative:2026_4_8 test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "E:\\CPlus\\Algorithm Study\\Algorithm\\2026_4_8 test\\2026_4_8 test\\test.cpp",
+              "RelativeDocumentMoniker": "2026_4_8 test\\test.cpp",
+              "ToolTip": "E:\\CPlus\\Algorithm Study\\Algorithm\\2026_4_8 test\\2026_4_8 test\\test.cpp",
+              "RelativeToolTip": "2026_4_8 test\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T04:35:46.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
