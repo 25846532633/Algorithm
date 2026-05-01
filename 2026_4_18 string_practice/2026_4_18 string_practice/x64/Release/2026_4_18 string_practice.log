@@ -1,0 +1,8 @@
+﻿  test.cpp
+E:\CPlus\Algorithm Study\Algorithm\2026_4_18 string_practice\2026_4_18 string_practice\test.cpp(250,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPlus\Algorithm Study\Algorithm\2026_4_18 string_practice\2026_4_18 string_practice\test.cpp(252,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 75 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  2026_4_18 string_practice.vcxproj -> E:\CPlus\Algorithm Study\Algorithm\2026_4_18 string_practice\x64\Release\2026_4_18 string_practice.exe

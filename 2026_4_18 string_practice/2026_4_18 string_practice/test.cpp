@@ -7,7 +7,7 @@ void test1()
 {
 	//1.默认构造
 	string s1;//(1)default
-	cout <<"s1:" << s1 << endl;
+	cout <<"s1:" << s1 << endl; //空
 
 	//4.5:利用C的字符串进行初始化
 	string s2 = "abced";//(4)c-string
@@ -21,28 +21,28 @@ void test1()
 	cout << "s3:" << s3 << endl;
 	cout << "s6:" << s6 << endl;
 	
-	//3.求字串
-	string s4(s2, 2); //(3) substring
-	string s5(s2, 2, 2);
-	cout << "s4:" << s4 << endl;
-	cout << "s5:" << s5 << endl;
+	////3.求字串
+	//string s4(s2, 2); //(3) substring
+	//string s5(s2, 2, 2);
+	//cout << "s4:" << s4 << endl;
+	//cout << "s5:" << s5 << endl;
 	
 	//6.利用字符填充
 	string s8(10, 'x');//(6) fill - C字符
 	cout << "s8:" << s8 << endl;
 
-	//7.iterator遍历 - 区间左闭右开
-	string s9(s8.begin(), s8.end()-1);
-	cout << "s9:" << s9 << endl;
+	////7.iterator遍历 - 区间左闭右开
+	//string s9(s8.begin(), s8.end()-1);
+	//cout << "s9:" << s9 << endl;
 
-	//8.operator
-	string s10 = s9;
-	string s11 = "abced";
-	string s12;
-	s12 = 'c';
-	cout << "s10:" << s10 << endl;
-	cout << "s11:" << s11 << endl;
-	cout << "s12:" << s12 << endl;	
+	////8.operator
+	//string s10 = s9;
+	//string s11 = "abced";
+	//string s12;
+	//s12 = 'c';
+	//cout << "s10:" << s10 << endl;
+	//cout << "s11:" << s11 << endl;
+	//cout << "s12:" << s12 << endl;	
 }
 
 
@@ -254,6 +254,94 @@ void test6()
 
 }
 
+void B0()
+{
+	string s1;                 // 空字符串
+	string s2("hello");        // C 字符串构造
+	string s3(s2);             // 拷贝构造
+	string s4 = s2;            // 拷贝构造
+	string s5("abcdef", 3);    // 取前 3 个字符："abc"
+	string s6(10, 'x');        // 10 个 'x'
+}
+
+//void B1()
+//{
+//	string s2("hello");
+//	cout << s2.size() << endl;
+//	cout << s2.capacity() << endl;
+//	
+//	cout << "第一次扩容,  size < n < capacity:" << endl;
+//	s2.resize(10);
+//	cout << s2.size() << endl;
+//	cout << s2.capacity() << endl;
+//	
+//	cout << "第二次扩容，n > capacity:" << endl;
+//	s2.resize(50);
+//	cout << s2.size() << endl;
+//	cout << s2.capacity() << endl;
+//
+//}
+
+void B2()
+{
+	string s2("hello");
+	cout << s2.size() << endl;
+	cout << s2.capacity() << endl;
+
+	s2.reserve(10);
+	cout << s2.size() << endl;
+	cout << s2.capacity() << endl;
+
+	s2.reserve(50);
+	cout << s2.size() << endl;
+	cout << s2.capacity() << endl;
+}
+
+void B3()
+{
+	string s3("hello world");
+	cout << s3[12] << endl;
+	//cout << s3.at(12) << endl;
+}
+
+void B4()
+{
+	string s4("hellow world");
+	/*int pos1 = s4.find("wod", 5);
+	int pos2 = s4.find("orld", 5, 2);
+	cout << pos1 << endl;
+	cout << pos2 << endl;*/
+	cout << s4.rfind("wor") << endl;
+}
+
+void B5()
+{
+	/*string s;
+	size_t oldCapacity = s.capacity();
+
+	for (int i = 0; i < 100; ++i)
+	{
+		s += 'x';
+
+		if (s.capacity() != oldCapacity)
+		{
+			oldCapacity = s.capacity();
+			cout << "capacity changed: " << oldCapacity << endl;
+		}
+	}*/
+	string s = "hello";
+
+	auto it = s.begin();
+
+	s.reserve(100); // 可能触发扩容
+
+	// 此时 it 可能已经失效
+	cout << *it << endl; // 不建议继续使用
+
+	//it = s.begin(); // 重新获取迭代器
+	//cout << *it << endl;
+}
+
 int main()
 {
 	//test1();//构造、operator=
@@ -261,6 +349,8 @@ int main()
 	//test3();//Capacity
 	//test4();
 	//test5();//Modifier
-	test6();
+	//test6();
+	B5();
 	return 0;
 }
+
